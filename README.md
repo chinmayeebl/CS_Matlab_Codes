@@ -1,5 +1,3 @@
-# Matlab_codes_of_Communication_System
-
 # Communication Basics MATLAB Codes
 
 ## This repository contains MATLAB codes for basic communication concepts. Below is a brief description of each file:
